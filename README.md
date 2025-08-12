@@ -1,1 +1,1 @@
-# mini-search-engine-ranking-visualizer
+# search-ranking-visualizer
